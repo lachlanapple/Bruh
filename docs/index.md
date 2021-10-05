@@ -251,4 +251,4 @@ html.theme-light #app-mount::after {
     top: 5px;
     left: 25px;
     width: 135px;
-}
+} 
